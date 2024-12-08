@@ -1,3 +1,9 @@
+---
+title: RAG
+app_file: app.py
+sdk: gradio
+sdk_version: 5.8.0
+---
 # RAG. Question answering bot.
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZyaTM1anczcGE0cDliYWZkNXhvY3ZrOGRzeTJ5a3EwcXl3aGVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12xDxBbj7CPAOI/giphy.gif)
 
@@ -39,10 +45,3 @@ As a reranker there was used cross encoder cross-encoder/stsb-roberta-base. It m
 Isn't implemented
 ## Web UI and deployment
 I used gradio lib for demo and Hugging Face Spaces for hosting.
-
----
-title: RAG
-app_file: app.py
-sdk: gradio
-sdk_version: 5.8.0
----
