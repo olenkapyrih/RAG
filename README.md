@@ -1,6 +1,5 @@
 # RAG. Question answering bot.
-Hello, it's me!
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l5dHp1Y29vaDg4d3B1Z2dvdXE4aXBkN2t6cTdqbmU0eWxvcWJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrvRc3sDrlwRQdkubT/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpocGk1Y2tnaTBkbjB0NzJtanE2YnZ1bXBnaTNsdTZtdm9oMnQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMbC8xqhIf9ny/giphy.gif)
 ### Topics
   - [Data source](#data-source) ✔️
   - [Chunking](#chunking) ✔️
