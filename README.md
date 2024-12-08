@@ -1,6 +1,4 @@
 # RAG. Question answering bot.
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZmcmM4NGZsNml6eXQxaGpqcWtzdGRnNjJwMTN2ZnJqem1uZHlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYilisUwipOEM/giphy.gif)
-
 ![](https://tenor.com/bRlXL.gif)
 ### Topics
   - [Data source](#data-source) ✔️
