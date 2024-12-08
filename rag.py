@@ -4,12 +4,6 @@ from typing import List
 import glob
 
 dir_path = 'docs'
-groq_api_key = ""
-
-client = Client(
-    api_key=groq_api_key
-)
-
 
 class QuestionAnsweringBot:
 
@@ -22,8 +16,9 @@ class QuestionAnsweringBot:
         - Use the provided context.
     """
 
-    def __init__(self, docs: List[str], score: int) -> None:
+    def __init__(self, docs: List[str], score: int, api_key) -> None:
         self.retriever = Retriever(docs=docs, score=score)
+        self.client = Client(api_key=api_key)
 
     def answer_question(self, question: str) -> str:
         context = self.retriever.get_docs(query=question)
@@ -37,7 +32,7 @@ class QuestionAnsweringBot:
                 "content": f"Context: {context}\nQuestion: {question}"
                 }
             ]
-        chat_completion = client.chat.completions.create(
+        chat_completion = self.client.chat.completions.create(
             messages=messages,
             model="llama3-70b-8192"
             )
