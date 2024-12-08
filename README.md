@@ -35,6 +35,8 @@ Dense retriever used in this lab - sentence-transformers/all-distilroberta-v1.
 
 As a reranker there was used cross encoder cross-encoder/stsb-roberta-base.
 ## Citation
+
+Isn't implemented
 ## Web UI and deployment
 I used gradio lib for demo and hosting.
 
