@@ -33,7 +33,7 @@ Dense retriever used in this lab - sentence-transformers/all-distilroberta-v1.
 
 ## Reranker
 
-As a reranker there was used cross encoder cross-encoder/stsb-roberta-base.
+As a reranker there was used cross encoder cross-encoder/stsb-roberta-base. It may be not efficient in my case, as far as amount of documents is quite small, so it takes time to process the data, but does not improve the process of extracting context.
 ## Citation
 
 Isn't implemented
