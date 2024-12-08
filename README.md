@@ -32,4 +32,4 @@ As a reranker there was used cross encoder cross-encoder/stsb-roberta-base.
 ## Web UI and deployment
 I used gradio lib for demo and hosting.
 
-[](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l5dHp1Y29vaDg4d3B1Z2dvdXE4aXBkN2t6cTdqbmU0eWxvcWJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrvRc3sDrlwRQdkubT/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l5dHp1Y29vaDg4d3B1Z2dvdXE4aXBkN2t6cTdqbmU0eWxvcWJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrvRc3sDrlwRQdkubT/giphy.gif)
