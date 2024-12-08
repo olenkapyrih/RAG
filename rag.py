@@ -4,7 +4,7 @@ from typing import List
 import glob
 
 dir_path = 'docs'
-groq_api_key = "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"
+groq_api_key = ""
 
 client = Client(
     api_key=groq_api_key
