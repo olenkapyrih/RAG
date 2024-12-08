@@ -1,5 +1,5 @@
 # RAG. Question answering bot.
-![](https://tenor.com/bRlXL.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNkaHJ1Z3Q2M3p5aHUwemEwdDIwcmUyN2dmNndxa2syNGk0cWlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BeZZaPuW3QyVnvm1N/giphy.gif)
 ### Topics
   - [Data source](#data-source) ✔️
   - [Chunking](#chunking) ✔️
