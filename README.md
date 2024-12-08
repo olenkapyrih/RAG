@@ -13,7 +13,7 @@
 
 ## Data source
 
-I used documents found on the Internet. You can find them in **docs**  directory, and you can ask questions based on that context. There also is possibility to upload your txt file and use it as a context.
+I used documents found on the Internet. You can take a look at them in **docs**  directory, and you can ask questions based on that context. There also is possibility to upload your txt file and use it as a context.
 
 ## Chunking
 Chunking was performed using the same method explained in live-coding session. No other libraries were involved.
