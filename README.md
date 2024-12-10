@@ -1,9 +1,3 @@
----
-title: RAG
-app_file: app.py
-sdk: gradio
-sdk_version: 5.8.0
----
 # [RAG. Question answering bot.](https://huggingface.co/spaces/olenkap/RAG)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZyaTM1anczcGE0cDliYWZkNXhvY3ZrOGRzeTJ5a3EwcXl3aGVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12xDxBbj7CPAOI/giphy.gif)
 
